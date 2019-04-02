@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLifeApp", "ConwaysGameOfLifeApp\ConwaysGameOfLifeApp.csproj", "{DF1BE98C-A32D-4766-82BF-07D7FB8F7754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysGameOfLifeApp.Tests", "ConwaysGameOfLifeApp.Tests\ConwaysGameOfLifeApp.Tests.csproj", "{31057CA3-82DA-4FF4-A6F5-998202E0CF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1BE98C-A32D-4766-82BF-07D7FB8F7754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1BE98C-A32D-4766-82BF-07D7FB8F7754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1BE98C-A32D-4766-82BF-07D7FB8F7754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1BE98C-A32D-4766-82BF-07D7FB8F7754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31057CA3-82DA-4FF4-A6F5-998202E0CF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31057CA3-82DA-4FF4-A6F5-998202E0CF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31057CA3-82DA-4FF4-A6F5-998202E0CF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31057CA3-82DA-4FF4-A6F5-998202E0CF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76576AB9-3848-4D0A-941E-4FAF8719174F}
+	EndGlobalSection
+EndGlobal
